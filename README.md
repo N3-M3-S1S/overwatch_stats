@@ -7,9 +7,10 @@ This is a console application (GUI comming soon) with witch you can check some o
 With Maven: `mvn install`. The result will be executable JAR *overwatch_stats.jar*.
 There're also prebuilded versions:
 
-JAR:
+[JAR](https://github.com/N3-M3-S1S/overwatch_stats/blob/master/prebuilt/overwatch_stats.jar)
 
-Executable for Windows builded with Launch4j: 
+[EXE](https://github.com/N3-M3-S1S/overwatch_stats/blob/master/prebuilt/overwatch_stats_win.exe)
+
 
 ## Launch
 Java 8 required. Launch with `java -jar overwatch_stats.jar`. Windows users can just double-click on the executable. 
