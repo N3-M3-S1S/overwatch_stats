@@ -5,7 +5,7 @@ This is a console application (GUI comming soon) with witch you can check some o
 
 ## Installation
 With Maven: `mvn install`. The result will be executable JAR *overwatch_stats.jar* in folder *target*.
-There're also prebuilded versions:
+There're also pre-built versions:
 
 [JAR](https://github.com/N3-M3-S1S/overwatch_stats/blob/master/prebuilt/overwatch_stats.jar)
 
